@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shravani AI Resume",
+  "description": "An interactive voice-enabled resume for Shravani Doulagar powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
